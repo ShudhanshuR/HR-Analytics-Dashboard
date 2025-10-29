@@ -42,6 +42,10 @@ Visualization Techniques: Bar charts, Pie charts, Line charts, KPIs, and Cards
 
 
 
+
+AUTHOR - 
 📧 Shudhanshuranjan301@gmail.com
+
 💼 https://www.linkedin.com/in/shudhanshu-ranjan-b56b76239/
+
 🗓️ Created: October 2025
