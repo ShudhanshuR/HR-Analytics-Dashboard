@@ -34,9 +34,9 @@ The dashboard highlights:
 
 🛠️ Tech Stack Used
 
-Tool: Power BI / Tableau / Excel (choose whichever you used)
+Tool: Power BI
 
-Data Source: HR Employee Attrition dataset (e.g. IBM HR Analytics dataset or custom dataset)
+Data Source: HR Employee Attrition dataset(Kaggle)
 
 Visualization Techniques: Bar charts, Pie charts, Line charts, KPIs, and Cards
 
